@@ -1,0 +1,17 @@
+{
+    "name": "bank/oho",
+    "description": "objektinio php banko aplikacijos versija su DB",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bank\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jurgita",
+            "email": "jurgita011@gmail.com"
+        }
+    ],
+    "require": {}
+}
